@@ -1,1 +1,1 @@
-# Paint Calculator Area
+# Paint-Calculator-Area-Only
